@@ -1,4 +1,4 @@
-![logo](https://github.com/Skray10/Sonu-Kumar/blob/main/banner.jpg)
+![logo](https://github.com/Skray10/Skray10/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
