@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/Skray10/Sonu-Kumar/blob/main/banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
