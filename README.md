@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skray10&label=Profile%20views&color=0e75b6&style=flat" alt="skray10" /> </p>
 
-- 🔭 I’m currently working on **Job Portal with React, Node, MongoDB, Express, Redux and Redux-Toolkit**
+- 🔭 I’m currently working on **Job Portal Using React, Node, MongoDB, Express, Redux and Redux-Toolkit**
 
 - 🌱 I’m currently learning **Express.js,React**
 
